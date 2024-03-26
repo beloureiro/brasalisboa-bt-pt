@@ -30,6 +30,6 @@ body {
 
 .botao:hover {
     background-color: #cf0010; /* Muda a cor de fundo para vermelho quando o mouse está sobre o botão */
-    color: #000000; /* Muda a cor do texto para preto quando o mouse está sobre o botão */
+    color: #ffffff; /* Muda a cor do texto para branco*/
     border-color: #000000; /* Muda a cor da borda para preto quando o mouse está sobre o botão */
 }
